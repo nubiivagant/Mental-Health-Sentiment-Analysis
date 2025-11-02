@@ -86,6 +86,11 @@ The Support Vector Machine (SVM) slightly outperformed Logistic Regression (LR) 
 
 The comparable performance values, with SVM showing a small **+0.6% gain** in accuracy, support the reliability of the robust preprocessing and the effectiveness of the **TF-IDF representation** in successfully extracting the most significant sentiment-bearing words.
 
+### Confusion Matrix Comparison
+
+The confusion matrices for both classifiers show similar results across the seven sentiment categories, indicating strong generalization across the datasets.
+<img width="1061" height="345" alt="Screenshot 2025-11-02 215534" src="https://github.com/user-attachments/assets/ba54b13e-c71d-4d04-bb74-488a28ec3ce8" />
+
 
 ### Key Findings Summary
 
