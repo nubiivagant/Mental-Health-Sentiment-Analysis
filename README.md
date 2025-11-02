@@ -29,7 +29,8 @@ This project applies **Natural Language Processing (NLP)** to automate the proce
 
 ## 🛠️ Model Implementation
 
-<img width="807" height="763" alt="image" src="https://github.com/user-attachments/assets/7d9087fe-f289-4a8f-be44-527515837312" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7d9087fe-f289-4a8f-be44-527515837312" />
+
 This is the System Architecture of the project.
 
 The workflow consists of four primary steps, as outlined in the system architecture diagram:
