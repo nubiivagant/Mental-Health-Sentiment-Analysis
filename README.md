@@ -125,12 +125,7 @@ Through model design, evaluation, and deployment, several important lessons and 
 - Gained the ability to interpret **confusion matrices** and extract insights into class-wise performance.  
 - Learned the importance of visualizations (bar charts, heatmaps) in summarizing model outcomes effectively.
 
-### **5️⃣ Practical Application and Deployment**
-- Built a fully functional **Streamlit web interface** for real-time sentiment detection.  
-- Learned the process of **saving, loading, and integrating trained models** into a live application.  
-- Realized the value of user interactivity in ML systems, allowing non-technical users to benefit from model predictions.
-
-### **6️⃣ Broader Insights**
+### **5️⃣ Broader Insights**
 - Demonstrated that **traditional ML algorithms**, when combined with proper preprocessing, can yield robust sentiment analysis results without the need for deep learning.  
 - Highlighted how **machine learning can contribute to mental health monitoring**, offering scalable tools for understanding emotional well-being trends online.  
 - Reinforced that performance consistency across multiple datasets validates a model’s generalization capability.
